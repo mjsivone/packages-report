@@ -1,0 +1,173 @@
+Package,LibPath,Version,Priority,Built
+AnnotationDbi,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.46.0,NA,3.6.0
+askpass,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.1,NA,3.6.0
+assertthat,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.2.1,NA,3.6.0
+backports,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.1.4,NA,3.6.0
+base64enc,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.1-3,NA,3.6.0
+BH,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.69.0-1,NA,3.6.0
+Biobase,C:/Users/minna.sivonen/Documents/R/win-library/3.6,2.44.0,NA,3.6.0
+BiocGenerics,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.30.0,NA,3.6.0
+BiocManager,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.30.4,NA,3.6.0
+BiocParallel,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.17.18,NA,3.6.0
+BiocVersion,C:/Users/minna.sivonen/Documents/R/win-library/3.6,3.9.0,NA,3.6.0
+biomaRt,C:/Users/minna.sivonen/Documents/R/win-library/3.6,2.40.0,NA,3.6.0
+Biostrings,C:/Users/minna.sivonen/Documents/R/win-library/3.6,2.52.0,NA,3.6.0
+bit,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.1-14,NA,3.6.0
+bit64,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.9-7,NA,3.6.0
+bitops,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.0-6,NA,3.6.0
+blob,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.1.1,NA,3.6.0
+broom,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.5.2,NA,3.6.0
+callr,C:/Users/minna.sivonen/Documents/R/win-library/3.6,3.2.0,NA,3.6.0
+caTools,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.17.1.2,NA,3.6.0
+cellranger,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.1.0,NA,3.6.0
+cli,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.1.0,NA,3.6.0
+clipr,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.6.0,NA,3.6.0
+clisymbols,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.2.0,NA,3.6.0
+cluster,C:/Users/minna.sivonen/Documents/R/win-library/3.6,2.0.9,recommended,3.6.0
+colorspace,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.4-1,NA,3.6.0
+crayon,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.3.4,NA,3.6.0
+curl,C:/Users/minna.sivonen/Documents/R/win-library/3.6,3.3,NA,3.6.0
+DBI,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.0.0,NA,3.6.0
+dbplyr,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.4.1,NA,3.6.0
+DelayedArray,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.10.0,NA,3.6.0
+desc,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.2.0,NA,3.6.0
+DescTools,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.99.28,NA,3.6.0
+devtools,C:/Users/minna.sivonen/Documents/R/win-library/3.6,2.0.2,NA,3.6.0
+digest,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.6.19,NA,3.6.0
+dplyr,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.8.1,NA,3.6.0
+ellipsis,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.1.0,NA,3.6.0
+evaluate,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.14,NA,3.6.0
+expm,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.999-4,NA,3.6.0
+fansi,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.4.0,NA,3.6.0
+forcats,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.4.0,NA,3.6.0
+formatR,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.6,NA,3.6.0
+fs,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.3.1,NA,3.6.0
+futile.logger,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.4.3,NA,3.6.0
+futile.options,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.0.1,NA,3.6.0
+generics,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.0.2,NA,3.6.0
+GenomeInfoDb,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.20.0,NA,3.6.0
+GenomeInfoDbData,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.2.1,NA,3.6.0
+GenomicAlignments,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.20.0,NA,3.6.0
+GenomicFeatures,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.36.1,NA,3.6.0
+GenomicRanges,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.36.0,NA,3.6.0
+ggplot2,C:/Users/minna.sivonen/Documents/R/win-library/3.6,3.1.1,NA,3.6.0
+gh,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.0.1,NA,3.6.0
+git2r,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.25.2,NA,3.6.0
+glue,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.3.1,NA,3.6.0
+gtable,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.3.0,NA,3.6.0
+haven,C:/Users/minna.sivonen/Documents/R/win-library/3.6,2.1.0,NA,3.6.0
+here,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.1,NA,3.6.0
+highr,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.8,NA,3.6.0
+hms,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.4.2,NA,3.6.0
+htmltools,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.3.6,NA,3.6.0
+httr,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.4.0,NA,3.6.0
+ini,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.3.1,NA,3.6.0
+IRanges,C:/Users/minna.sivonen/Documents/R/win-library/3.6,2.18.1,NA,3.6.0
+jsonlite,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.6,NA,3.6.0
+knitr,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.23,NA,3.6.0
+labeling,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.3,NA,3.6.0
+lambda.r,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.2.3,NA,3.6.0
+lazyeval,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.2.2,NA,3.6.0
+lubridate,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.7.4,NA,3.6.0
+magrittr,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.5,NA,3.6.0
+manipulate,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.0.1,NA,3.6.0
+markdown,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.9,NA,3.6.0
+matrixStats,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.54.0,NA,3.6.0
+memoise,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.1.0,NA,3.6.0
+microbenchmark,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.4-6,NA,3.6.0
+mime,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.6,NA,3.6.0
+modelr,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.1.4,NA,3.6.0
+munsell,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.5.0,NA,3.6.0
+mvtnorm,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.0-10,NA,3.6.0
+nlme,C:/Users/minna.sivonen/Documents/R/win-library/3.6,3.1-140,recommended,3.6.0
+openssl,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.4,NA,3.6.0
+pheatmap,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.0.12,NA,3.6.0
+pillar,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.4.1,NA,3.6.0
+pkgbuild,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.0.3,NA,3.6.0
+pkgconfig,C:/Users/minna.sivonen/Documents/R/win-library/3.6,2.0.2,NA,3.6.0
+pkgload,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.0.2,NA,3.6.0
+plogr,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.2.0,NA,3.6.0
+plyr,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.8.4,NA,3.6.0
+prettyunits,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.0.2,NA,3.6.0
+processx,C:/Users/minna.sivonen/Documents/R/win-library/3.6,3.3.1,NA,3.6.0
+progress,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.2.2,NA,3.6.0
+ps,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.3.0,NA,3.6.0
+purrr,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.3.2,NA,3.6.0
+R6,C:/Users/minna.sivonen/Documents/R/win-library/3.6,2.4.0,NA,3.6.0
+rcmdcheck,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.3.3,NA,3.6.0
+RColorBrewer,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.1-2,NA,3.6.0
+Rcpp,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.0.1,NA,3.6.0
+RCurl,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.95-4.12,NA,3.6.0
+readr,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.3.1,NA,3.6.0
+readxl,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.3.1,NA,3.6.0
+rematch,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.0.1,NA,3.6.0
+remotes,C:/Users/minna.sivonen/Documents/R/win-library/3.6,2.0.4,NA,3.6.0
+reprex,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.3.0,NA,3.6.0
+reshape2,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.4.3,NA,3.6.0
+Rhtslib,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.16.1,NA,3.6.0
+rlang,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.3.4,NA,3.6.0
+rmarkdown,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.13,NA,3.6.0
+rprojroot,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.3-2,NA,3.6.0
+Rsamtools,C:/Users/minna.sivonen/Documents/R/win-library/3.6,2.0.0,NA,3.6.0
+RSQLite,C:/Users/minna.sivonen/Documents/R/win-library/3.6,2.1.1,NA,3.6.0
+rstudioapi,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.10,NA,3.6.0
+rtracklayer,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.44.0,NA,3.6.0
+rvest,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.3.4,NA,3.6.0
+S4Vectors,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.22.0,NA,3.6.0
+scales,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.0.0,NA,3.6.0
+selectr,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.4-1,NA,3.6.0
+sessioninfo,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.1.1,NA,3.6.0
+snow,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.4-3,NA,3.6.0
+stringi,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.4.3,NA,3.6.0
+stringr,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.4.0,NA,3.6.0
+SummarizedExperiment,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.14.0,NA,3.6.0
+sys,C:/Users/minna.sivonen/Documents/R/win-library/3.6,3.2,NA,3.6.0
+tibble,C:/Users/minna.sivonen/Documents/R/win-library/3.6,2.1.2,NA,3.6.0
+tidyr,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.8.3,NA,3.6.0
+tidyselect,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.2.5,NA,3.6.0
+tidyverse,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.2.1,NA,3.6.0
+tinytex,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.13,NA,3.6.0
+usethis,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.5.0,NA,3.6.0
+utf8,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.1.4,NA,3.6.0
+vctrs,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.1.0,NA,3.6.0
+whisker,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.3-2,NA,3.6.0
+viridisLite,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.3.0,NA,3.6.0
+withr,C:/Users/minna.sivonen/Documents/R/win-library/3.6,2.1.2,NA,3.6.0
+xfun,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.7,NA,3.6.0
+XML,C:/Users/minna.sivonen/Documents/R/win-library/3.6,3.98-1.19,NA,3.6.0
+xml2,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.2.0,NA,3.6.0
+xopen,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.0.0,NA,3.6.0
+XVector,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.24.0,NA,3.6.0
+yaml,C:/Users/minna.sivonen/Documents/R/win-library/3.6,2.2.0,NA,3.6.0
+zeallot,C:/Users/minna.sivonen/Documents/R/win-library/3.6,0.1.0,NA,3.6.0
+zlibbioc,C:/Users/minna.sivonen/Documents/R/win-library/3.6,1.30.0,NA,3.6.0
+base,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+boot,C:/Program Files/R/R-3.6.0/library,1.3-22,recommended,3.6.0
+class,C:/Program Files/R/R-3.6.0/library,7.3-15,recommended,3.6.0
+cluster,C:/Program Files/R/R-3.6.0/library,2.0.8,recommended,3.6.0
+codetools,C:/Program Files/R/R-3.6.0/library,0.2-16,recommended,3.6.0
+compiler,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+datasets,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+foreign,C:/Program Files/R/R-3.6.0/library,0.8-71,recommended,3.6.0
+graphics,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+grDevices,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+grid,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+KernSmooth,C:/Program Files/R/R-3.6.0/library,2.23-15,recommended,3.6.0
+lattice,C:/Program Files/R/R-3.6.0/library,0.20-38,recommended,3.6.0
+MASS,C:/Program Files/R/R-3.6.0/library,7.3-51.4,recommended,3.6.0
+Matrix,C:/Program Files/R/R-3.6.0/library,1.2-17,recommended,3.6.0
+methods,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+mgcv,C:/Program Files/R/R-3.6.0/library,1.8-28,recommended,3.6.0
+nlme,C:/Program Files/R/R-3.6.0/library,3.1-139,recommended,3.6.0
+nnet,C:/Program Files/R/R-3.6.0/library,7.3-12,recommended,3.6.0
+parallel,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+rpart,C:/Program Files/R/R-3.6.0/library,4.1-15,recommended,3.6.0
+spatial,C:/Program Files/R/R-3.6.0/library,7.3-11,recommended,3.6.0
+splines,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+stats,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+stats4,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+survival,C:/Program Files/R/R-3.6.0/library,2.44-1.1,recommended,3.6.0
+tcltk,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+tools,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
+translations,C:/Program Files/R/R-3.6.0/library,3.6.0,NA,3.6.0
+utils,C:/Program Files/R/R-3.6.0/library,3.6.0,base,3.6.0
