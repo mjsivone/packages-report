@@ -11,3 +11,4 @@ ipt <- installed.packages() %>%
 write_csv(path=here("data", "installed-packages.csv"))
 ipt
 
+
